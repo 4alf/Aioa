@@ -1,0 +1,11 @@
+#how h2 {
+    text-align: center;
+  }
+  
+  @media only screen and (max-width: 650px) {
+  
+    #how h2 {
+      margin-bottom: 5rem;
+    }
+    
+  }
